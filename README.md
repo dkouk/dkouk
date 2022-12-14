@@ -7,7 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m Front-end/Mobile Developer using react.js/react-native and angular
+- 🔭 I’m Front-end/Mobile Developer using react.j, react-native and angular
 - 💬 Ask me about react, react-native
 - 📫 How to reach me: dkouk.m@gmail.com
-
