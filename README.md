@@ -1,5 +1,3 @@
-### 👋 Hi,
-
 <a href="https://app.daily.dev/Dkouk"><img src="https://api.daily.dev/devcards/17a4dd83c2314ec09ce0f803e20f82bf.png?r=3z7" width="400" alt="Dkouk Med's Dev Card"/></a>
 
 <!--
